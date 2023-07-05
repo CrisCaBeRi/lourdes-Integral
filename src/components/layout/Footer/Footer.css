@@ -1,0 +1,15 @@
+@import url("../../../../styles/App.css");
+
+:root {
+  --primaryColor: #272d95;
+  --secColor: #ba8a21;
+  --thrColor: #d9d9d9;
+  --tFont: "Montserrat", sans-serif;
+  --pFont: "Rubik", sans-serif;
+  --wtFont: 600;
+  --wpFont: 300;
+}
+
+h1 {
+    color: red;
+}
